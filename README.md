@@ -42,8 +42,8 @@
   }
   ```
 - The code is written in Java
-- The code can be found in a Fork of the repo at ...
-- This fork is shared with ... before 29-03-2021
+- The code can be found at GitHub and Fork the repo from https://github.com/SogetiEasterEgg/easter-egg-challenge
+- This fork is shared with eastereggcompetition.nl@sogeti.com before 29-03-2021
 
 --- 
 
@@ -107,8 +107,8 @@
   }
   ```
 - De code is geschreven in Java
-- De code staat in een Fork van de repo te vinden op ...
-- Deze Fork wordt vóór 29-03-2021 gedeeld met ...
+- De code is te vinden op GitHub en Fork de repo van https://github.com/SogetiEasterEgg/easter-egg-challenge
+- Deze Fork wordt vóór 29-03-2021 gedeeld met eastereggcompetition.nl@sogeti.com
 
 
 --- 
